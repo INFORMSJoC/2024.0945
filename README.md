@@ -14,11 +14,11 @@ https://doi.org/10.1287/ijoc.2024.0945
 
 https://doi.org/10.1287/ijoc.2024.0945.cd
 
-Below is the BibTex for citing this snapshot of the repository.
+Below is the BibTeX for citing this snapshot of the repository.
 
 ```
 @misc{ShortestPathCentrality,
-  author =        {J. Phosavanh, D. Matyspura},
+  author =        {Johnson Phosavanh and Dmytro Matsypura},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Centrality of shortest paths: algorithms and complexity results}},
   year =          {2025},
@@ -43,7 +43,6 @@ This code has been written in Python 3.12, and in addition to the standard Pytho
 ## Results
 
 Tables 1-7 in the paper show the results of the timing tests with different graphs on Mac Studio (2023) with Apple M2 Ultra and 128 GB of RAM running macOS Ventura 13.6.
-
 
 ## Replicating
 
